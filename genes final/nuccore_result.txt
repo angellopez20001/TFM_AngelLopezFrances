@@ -1,0 +1,352 @@
+
+1. PREDICTED: Dicentrarchus labrax ArfGAP with FG repeats 1b (agfg1b), transcript variant X1, mRNA
+3,102 bp linear mRNA 
+XM_051393778.1 GI:2322705998
+
+2. PREDICTED: Dicentrarchus labrax dihydropyrimidine dehydrogenase b (dpydb), mRNA
+3,845 bp linear mRNA 
+XM_051396132.1 GI:2322707212
+
+3. PREDICTED: Dicentrarchus labrax family with sequence similarity 151 member A (fam151a), mRNA
+1,965 bp linear mRNA 
+XM_051398969.1 GI:2322707763
+
+4. PREDICTED: Dicentrarchus labrax dehydrogenase/reductase (SDR family) member 1 (dhrs1), mRNA
+1,660 bp linear mRNA 
+XM_051400873.1 GI:2322708168
+
+5. PREDICTED: Dicentrarchus labrax GATA binding protein 6 (gata6), transcript variant X1, mRNA
+3,768 bp linear mRNA 
+XM_051406250.1 GI:2322709196
+
+6. PREDICTED: Dicentrarchus labrax complement C1q-like protein 2 (LOC127367216), mRNA
+1,485 bp linear mRNA 
+XM_051406893.1 GI:2322709326
+
+7. PREDICTED: Dicentrarchus labrax sterol carrier protein 2a (scp2a), mRNA
+4,563 bp linear mRNA 
+XM_051409256.1 GI:2322709765
+
+8. PREDICTED: Dicentrarchus labrax transmembrane protein 229B-like (LOC127371717), mRNA
+1,404 bp linear mRNA 
+XM_051414701.1 GI:2322710604
+
+9. PREDICTED: Dicentrarchus labrax inorganic pyrophosphatase 1b (ppa1b), mRNA
+1,319 bp linear mRNA 
+XM_051427274.1 GI:2322713072
+
+10. PREDICTED: Dicentrarchus labrax transmembrane protein 254 (tmem254), mRNA
+1,018 bp linear mRNA 
+XM_051428054.1 GI:2322713215
+
+11. PREDICTED: Dicentrarchus labrax proprotein convertase subtilisin/kexin type 2 (pcsk2), mRNA
+3,090 bp linear mRNA 
+XM_051376315.1 GI:2322713771
+
+12. PREDICTED: Dicentrarchus labrax solute carrier family 18 member B1 (slc18b1), mRNA
+2,262 bp linear mRNA 
+XM_051395902.1 GI:2322717577
+
+13. PREDICTED: Dicentrarchus labrax phosphorylase, glycogen, liver (pygl), mRNA
+3,176 bp linear mRNA 
+XM_051396035.1 GI:2322717828
+
+14. PREDICTED: Dicentrarchus labrax solute carrier family 19 member 3a (slc19a3a), mRNA
+1,632 bp linear mRNA 
+XM_051397248.1 GI:2322720099
+
+15. PREDICTED: Dicentrarchus labrax WD repeat domain 81 (wdr81), mRNA
+8,246 bp linear mRNA 
+XM_051397376.1 GI:2322720339
+
+16. PREDICTED: Dicentrarchus labrax aryl hydrocarbon receptor interacting protein-like 1 (aipl1), mRNA
+1,389 bp linear mRNA 
+XM_051398802.1 GI:2322723018
+
+17. PREDICTED: Dicentrarchus labrax serine/threonine kinase 32A (stk32a), transcript variant X2, mRNA
+4,668 bp linear mRNA 
+XM_051401654.1 GI:2322728608
+
+18. PREDICTED: Dicentrarchus labrax ras-related protein Rab-39B (LOC127364379), transcript variant X2, mRNA
+2,850 bp linear mRNA 
+XM_051401861.1 GI:2322729012
+
+19. PREDICTED: Dicentrarchus labrax diacylglycerol O-acyltransferase 2 (dgat2), mRNA
+2,806 bp linear mRNA 
+XM_051401908.1 GI:2322729102
+
+20. PREDICTED: Dicentrarchus labrax monoacylglycerol O-acyltransferase 2 (mogat2), mRNA
+2,046 bp linear mRNA 
+XM_051402218.1 GI:2322729679
+
+21. PREDICTED: Dicentrarchus labrax phosphate cytidylyltransferase 1B, choline b (pcyt1bb), mRNA
+1,461 bp linear mRNA 
+XM_051402336.1 GI:2322729902
+
+22. PREDICTED: Dicentrarchus labrax fatty acid hydroxylase domain containing 2 (faxdc2), mRNA
+2,434 bp linear mRNA 
+XM_051402584.1 GI:2322730371
+
+23. PREDICTED: Dicentrarchus labrax lactase/phlorizin hydrolase-like (LOC127365803), mRNA
+5,801 bp linear mRNA 
+XM_051404293.1 GI:2322733600
+
+24. PREDICTED: Dicentrarchus labrax solute carrier family 15 member 1a (slc15a1a), mRNA
+2,688 bp linear mRNA 
+XM_051404768.1 GI:2322734478
+
+25. PREDICTED: Dicentrarchus labrax odd-skipped related transciption factor 2 (osr2), transcript variant X3, mRNA
+2,805 bp linear mRNA 
+XM_051405247.1 GI:2322735365
+
+26. PREDICTED: Dicentrarchus labrax mal, T cell differentiation protein 2 (mal2), transcript variant X2, mRNA
+1,667 bp linear mRNA 
+XM_051406384.1 GI:2322737522
+
+27. PREDICTED: Dicentrarchus labrax erythrocyte membrane protein band 4.1 like 4B (epb41l4b), transcript variant X2, mRNA
+4,028 bp linear mRNA 
+XM_051406666.1 GI:2322738059
+
+28. PREDICTED: Dicentrarchus labrax apolipoprotein A-II (apoa2), mRNA
+827 bp linear mRNA 
+XM_051407065.1 GI:2322738792
+
+29. PREDICTED: Dicentrarchus labrax uncharacterized LOC127367353 (LOC127367353), mRNA
+2,297 bp linear mRNA 
+XM_051407115.1 GI:2322738882
+
+30. PREDICTED: Dicentrarchus labrax apolipoprotein C-II (apoc2), mRNA
+676 bp linear mRNA 
+XM_051407222.1 GI:2322739087
+
+31. PREDICTED: Dicentrarchus labrax gap junction protein alpha 13.1 (gja13.1), mRNA
+1,421 bp linear mRNA 
+XM_051409785.1 GI:2322744104
+
+32. PREDICTED: Dicentrarchus labrax apolipoprotein B-100-like (LOC127368804), misc_RNA
+10,258 bp linear transcribed-RNA 
+XR_007885885.1 GI:2322744455
+
+33. PREDICTED: Dicentrarchus labrax beta-carotene oxygenase 1 (bco1), mRNA
+1,952 bp linear mRNA 
+XM_051410983.1 GI:2322746429
+
+34. PREDICTED: Dicentrarchus labrax MAM and LDL receptor class A domain containing 1 (malrd1), transcript variant X1, mRNA
+9,001 bp linear mRNA 
+XM_051411215.1 GI:2322746860
+
+35. PREDICTED: Dicentrarchus labrax scavenger receptor class B, member 1 (scarb1), transcript variant X1, mRNA
+3,402 bp linear mRNA 
+XM_051411637.1 GI:2322747625
+
+36. PREDICTED: Dicentrarchus labrax MAM domain containing 4 (mamdc4), mRNA
+5,415 bp linear mRNA 
+XM_051412449.1 GI:2322749217
+
+37. PREDICTED: Dicentrarchus labrax ephrin type-A receptor 5 (LOC127370703), mRNA
+8,864 bp linear mRNA 
+XM_051412986.1 GI:2322750213
+
+38. PREDICTED: Dicentrarchus labrax lysozyme (lyz), mRNA
+670 bp linear mRNA 
+XM_051413564.1 GI:2322751342
+
+39. PREDICTED: Dicentrarchus labrax laminin subunit beta-3 (LOC127371821), transcript variant X1, mRNA
+4,586 bp linear mRNA 
+XM_051414968.1 GI:2322754194
+
+40. PREDICTED: Dicentrarchus labrax aquaporin 8a, tandem duplicate 1 (aqp8a.1), mRNA
+1,149 bp linear mRNA 
+XM_051418546.1 GI:2322761089
+
+41. PREDICTED: Dicentrarchus labrax acyl-CoA synthetase long chain family member 5 (acsl5), mRNA
+2,328 bp linear mRNA 
+XM_051418622.1 GI:2322761228
+
+42. PREDICTED: Dicentrarchus labrax ATP-binding cassette, sub-family A (ABC1), member 1B (abca1b), transcript variant X2, misc_RNA
+6,763 bp linear transcribed-RNA 
+XR_007887035.1 GI:2322763404
+
+43. PREDICTED: Dicentrarchus labrax MANSC domain containing 1 (mansc1), transcript variant X3, mRNA
+4,883 bp linear mRNA 
+XM_051420001.1 GI:2322763819
+
+44. PREDICTED: Dicentrarchus labrax solute carrier family 4 member 4a (slc4a4a), transcript variant X5, mRNA
+6,373 bp linear mRNA 
+XM_051421703.1 GI:2322767154
+
+45. PREDICTED: Dicentrarchus labrax acetyl-CoA carboxylase beta (acacb), transcript variant X5, mRNA
+8,041 bp linear mRNA 
+XM_051422124.1 GI:2322767941
+
+46. PREDICTED: Dicentrarchus labrax long-chain-fatty-acid--CoA ligase ACSBG2 (LOC127376322), transcript variant X1, mRNA
+3,273 bp linear mRNA 
+XM_051423072.1 GI:2322769724
+
+47. PREDICTED: Dicentrarchus labrax long-chain-fatty-acid--CoA ligase ACSBG2 (LOC127376322), transcript variant X9, mRNA
+3,374 bp linear mRNA 
+XM_051423081.1 GI:2322769740
+
+48. PREDICTED: Dicentrarchus labrax natterin-3-like (LOC127376503), mRNA
+1,389 bp linear mRNA 
+XM_051423447.1 GI:2322770440
+
+49. PREDICTED: Dicentrarchus labrax solute carrier family 2 member 1a (slc2a1a), mRNA
+4,917 bp linear mRNA 
+XM_051424217.1 GI:2322771874
+
+50. PREDICTED: Dicentrarchus labrax solute carrier family 26 member 6 (slc26a6), transcript variant X2, mRNA
+3,169 bp linear mRNA 
+XM_051424476.1 GI:2322772369
+
+51. PREDICTED: Dicentrarchus labrax GATA binding protein 5 (gata5), mRNA
+2,817 bp linear mRNA 
+XM_051426087.1 GI:2322775450
+
+52. PREDICTED: Dicentrarchus labrax pepsin A-like (LOC127377873), mRNA
+1,289 bp linear mRNA 
+XM_051426151.1 GI:2322775586
+
+53. PREDICTED: Dicentrarchus labrax ethanolamine-phosphate phospho-lyase (etnppl), mRNA
+2,130 bp linear mRNA 
+XM_051428607.1 GI:2322780426
+
+54. PREDICTED: Dicentrarchus labrax cell death inducing DFFA like effector b (cideb), mRNA
+1,340 bp linear mRNA 
+XM_051428773.1 GI:2322780733
+
+55. PREDICTED: Dicentrarchus labrax transmembrane 4 L six family member 5 (tm4sf5), mRNA
+1,282 bp linear mRNA 
+XM_051429538.1 GI:2322782195
+
+56. PREDICTED: Dicentrarchus labrax zonadhesin, like (zanl), transcript variant X4, mRNA
+7,453 bp linear mRNA 
+XM_051429584.1 GI:2322782283
+
+57. PREDICTED: Dicentrarchus labrax transmembrane 4 L six family member 21b (tm4sf21b), mRNA
+1,201 bp linear mRNA 
+XM_051375258.1 GI:2322782421
+
+58. PREDICTED: Dicentrarchus labrax claudin 34a (cldn34a), transcript variant X2, mRNA
+1,866 bp linear mRNA 
+XM_051375819.1 GI:2322783537
+
+59. PREDICTED: Dicentrarchus labrax SEC16 homolog B, endoplasmic reticulum export factor (sec16b), transcript variant X2, mRNA
+5,019 bp linear mRNA 
+XM_051377315.1 GI:2322786402
+
+60. PREDICTED: Dicentrarchus labrax uncharacterized LOC127350663 (LOC127350663), transcript variant X1, mRNA
+1,582 bp linear mRNA 
+XM_051377482.1 GI:2322786714
+
+61. PREDICTED: Dicentrarchus labrax transmembrane 4 L six family member 4 (tm4sf4), mRNA
+1,773 bp linear mRNA 
+XM_051377662.1 GI:2322787049
+
+62. PREDICTED: Dicentrarchus labrax kinesin family member C3 (kifc3), transcript variant X4, mRNA
+4,467 bp linear mRNA 
+XM_051378720.1 GI:2322789175
+
+63. PREDICTED: Dicentrarchus labrax annexin A2 (LOC127351342), mRNA
+1,370 bp linear mRNA 
+XM_051378812.1 GI:2322789345
+
+64. PREDICTED: Dicentrarchus labrax hepatic nuclear factor 4, beta (hnf4b), mRNA
+1,682 bp linear mRNA 
+XM_051380307.1 GI:2322792215
+
+65. PREDICTED: Dicentrarchus labrax dihydrofolate reductase (LOC127353088), mRNA
+1,379 bp linear mRNA 
+XM_051382070.1 GI:2322795586
+
+66. PREDICTED: Dicentrarchus labrax cilia and flagella associated protein 161 (cfap161), mRNA
+1,153 bp linear mRNA 
+XM_051382469.1 GI:2322796337
+
+67. PREDICTED: Dicentrarchus labrax intestine-specific homeobox-like (LOC127353506), transcript variant X2, mRNA
+1,011 bp linear mRNA 
+XM_051382759.1 GI:2322796900
+
+68. PREDICTED: Dicentrarchus labrax spire-type actin nucleation factor 2 (spire2), transcript variant X1, mRNA
+3,711 bp linear mRNA 
+XM_051383181.1 GI:2322797739
+
+69. PREDICTED: Dicentrarchus labrax uncharacterized protein LOC791147 homolog (zgc:158868), mRNA
+2,261 bp linear mRNA 
+XM_051383334.1 GI:2322798042
+
+70. PREDICTED: Dicentrarchus labrax polymerase (DNA directed), theta (polq), transcript variant X1, mRNA
+9,534 bp linear mRNA 
+XM_051384640.1 GI:2322800665
+
+71. PREDICTED: Dicentrarchus labrax group XIIB secretory phospholipase A2-like protein (LOC127354656), mRNA
+1,176 bp linear mRNA 
+XM_051384715.1 GI:2322800805
+
+72. PREDICTED: Dicentrarchus labrax uncharacterized protein LOC555481 homolog (zgc:154142), mRNA
+4,351 bp linear mRNA 
+XM_051385588.1 GI:2322802423
+
+73. PREDICTED: Dicentrarchus labrax fatty acid binding protein 2, intestinal (fabp2), mRNA
+702 bp linear mRNA 
+XM_051386316.1 GI:2322803810
+
+74. PREDICTED: Dicentrarchus labrax periplakin (ppl), mRNA
+5,922 bp linear mRNA 
+XM_051386816.1 GI:2322804771
+
+75. PREDICTED: Dicentrarchus labrax envoplakin b (evplb), mRNA
+6,565 bp linear mRNA 
+XM_051387919.1 GI:2322806909
+
+76. PREDICTED: Dicentrarchus labrax ectonucleotide pyrophosphatase/phosphodiesterase family member 7-like (LOC127356645), mRNA
+1,884 bp linear mRNA 
+XM_051388600.1 GI:2322808204
+
+77. PREDICTED: Dicentrarchus labrax monocyte to macrophage differentiation-associated (mmd), transcript variant X2, mRNA
+2,485 bp linear mRNA 
+XM_051388665.1 GI:2322808325
+
+78. PREDICTED: Dicentrarchus labrax protein FAM83G (LOC127356893), transcript variant X2, mRNA
+4,561 bp linear mRNA 
+XM_051388956.1 GI:2322808878
+
+79. PREDICTED: Dicentrarchus labrax type-4 ice-structuring protein LS-12 (LOC127357679), mRNA
+686 bp linear mRNA 
+XM_051390030.1 GI:2322811009
+
+80. PREDICTED: Dicentrarchus labrax scinderin (scin), transcript variant X2, mRNA
+3,152 bp linear mRNA 
+XM_051390718.1 GI:2322812285
+
+81. PREDICTED: Dicentrarchus labrax endonuclease/exonuclease/phosphatase family domain containing 1 (eepd1), mRNA
+2,201 bp linear mRNA 
+XM_051390817.1 GI:2322812467
+
+82. PREDICTED: Dicentrarchus labrax ectonucleotide pyrophosphatase/phosphodiesterase family member 3 (LOC127358264), transcript variant X2, mRNA
+3,205 bp linear mRNA 
+XM_051391248.1 GI:2322813325
+
+83. PREDICTED: Dicentrarchus labrax DENN/MADD domain containing 5B (dennd5b), transcript variant X3, mRNA
+8,123 bp linear mRNA 
+XM_051391675.1 GI:2322814177
+
+84. PREDICTED: Dicentrarchus labrax CD36 molecule (thrombospondin receptor) (cd36), mRNA
+2,041 bp linear mRNA 
+XM_051392412.1 GI:2322815619
+
+85. PREDICTED: Dicentrarchus labrax adiponectin receptor 2 (adipor2), mRNA
+3,517 bp linear mRNA 
+XM_051393016.1 GI:2322816769
+
+86. PREDICTED: Dicentrarchus labrax uromodulin-like (LOC127360164), transcript variant X2, misc_RNA
+2,896 bp linear transcribed-RNA 
+XR_007883313.1 GI:2322819970
+
+87. PREDICTED: Dicentrarchus labrax transmembrane serine protease 15 (tmprss15), transcript variant X1, mRNA
+4,050 bp linear mRNA 
+XM_051394778.1 GI:2322820931
+
+88. PREDICTED: Dicentrarchus labrax membrane primary amine oxidase-like (LOC127361035), mRNA
+3,195 bp linear mRNA 
+XM_051395600.1 GI:2322822901

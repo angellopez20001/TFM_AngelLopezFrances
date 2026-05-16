@@ -1,0 +1,247 @@
+
+1. LOC115566466
+alcohol dehydrogenase 1 [Sparus aurata (gilthead seabream)]
+Other Designations: alcohol dehydrogenase 1
+Chromosome: 16
+Annotation: Chromosome 16 NC_044202.1 (20448599..20454470, complement)
+ID: 115566466
+
+2. LOC115573101
+tripartite motif-containing protein 16-like [Sparus aurata (gilthead seabream)]
+Other Designations: tripartite motif-containing protein 16-like
+Chromosome: 21
+Annotation: Chromosome 21 NC_044207.1 (30408341..30411204)
+ID: 115573101
+
+3. LOC115573103
+tripartite motif-containing protein 16-like [Sparus aurata (gilthead seabream)]
+Other Designations: tripartite motif-containing protein 16-like
+Chromosome: 21
+Annotation: Chromosome 21 NC_044207.1 (30424464..30426932)
+ID: 115573103
+
+4. LOC115575650
+uncharacterized LOC115575650 [Sparus aurata (gilthead seabream)]
+Other Designations: uncharacterized protein LOC115575650
+Chromosome: 23
+Annotation: Chromosome 23 NC_044209.1 (28671252..28686377)
+ID: 115575650
+
+5. LOC115578017
+bifunctional epoxide hydrolase 2-like [Sparus aurata (gilthead seabream)]
+Other Designations: bifunctional epoxide hydrolase 2-like
+Chromosome: Un
+Annotation:  NW_027652957.1 (75175..85283)
+ID: 115578017
+
+6. LOC115578668
+major histocompatibility complex class I-related gene protein-like [Sparus aurata (gilthead seabream)]
+Other Designations: major histocompatibility complex class I-related gene protein-like
+Chromosome: 3
+Annotation: Chromosome 3 NC_044189.1 (5212247..5216471, complement)
+ID: 115578668
+
+7. crybg2
+crystallin beta-gamma domain containing 2 [Sparus aurata (gilthead seabream)]
+Other Designations: uncharacterized protein crybg2
+Chromosome: 3
+Annotation: Chromosome 3 NC_044189.1 (9313714..9363941)
+ID: 115578787
+
+8. LOC115578801
+elongation factor 1-alpha-like [Sparus aurata (gilthead seabream)]
+Other Designations: elongation factor 1-alpha-like
+Chromosome: 3
+Annotation: Chromosome 3 NC_044189.1 (7505448..7511204)
+ID: 115578801
+
+9. LOC115582400
+lysozyme g-like [Sparus aurata (gilthead seabream)]
+Other Designations: lysozyme g-like
+Chromosome: 1
+Annotation: Chromosome 1 NC_044187.1 (23891824..23895217, complement)
+ID: 115582400
+
+10. LOC115582423
+lysozyme g-like [Sparus aurata (gilthead seabream)]
+Other Designations: lysozyme g-like
+Chromosome: 1
+Annotation: Chromosome 1 NC_044187.1 (23887397..23888164, complement)
+ID: 115582423
+
+11. LOC115582649
+neuronal acetylcholine receptor subunit alpha-7-like [Sparus aurata (gilthead seabream)]
+Other Designations: neuronal acetylcholine receptor subunit alpha-7-like
+Chromosome: 1
+Annotation: Chromosome 1 NC_044187.1 (31211443..31273889)
+ID: 115582649
+
+12. LOC115583933
+probable N-acetyltransferase camello [Sparus aurata (gilthead seabream)]
+Other Designations: probable N-acetyltransferase camello
+Chromosome: 6
+Annotation: Chromosome 6 NC_044192.1 (12459056..12464511)
+ID: 115583933
+
+13. LOC115584003
+nuclear factor 7, brain-like [Sparus aurata (gilthead seabream)]
+Other Designations: nuclear factor 7, brain-like
+Chromosome: 6
+Annotation: Chromosome 6 NC_044192.1 (1989358..2009621)
+ID: 115584003
+
+14. LOC115584009
+zinc-binding protein A33-like [Sparus aurata (gilthead seabream)]
+Other Designations: zinc-binding protein A33-like
+Chromosome: 6
+Annotation: Chromosome 6 NC_044192.1 (1985703..1999137)
+ID: 115584009
+
+15. LOC115584438
+acidic mammalian chitinase-like [Sparus aurata (gilthead seabream)]
+Other Designations: acidic mammalian chitinase-like
+Chromosome: 7
+Annotation: Chromosome 7 NC_044193.1 (10127336..10131481)
+ID: 115584438
+
+16. LOC115585860
+lysozyme g-like [Sparus aurata (gilthead seabream)]
+Other Designations: lysozyme g-like
+Chromosome: 1
+Annotation: Chromosome 1 NC_044187.1 (23872115..23883327, complement)
+ID: 115585860
+
+17. LOC115585885
+lysozyme g-like [Sparus aurata (gilthead seabream)]
+Other Designations: lysozyme g-like
+Chromosome: 1
+Annotation: Chromosome 1 NC_044187.1 (23868930..23870801, complement)
+ID: 115585885
+
+18. LOC115586843
+liver carboxylesterase 2-like [Sparus aurata (gilthead seabream)]
+Other Designations: liver carboxylesterase 2-like
+Chromosome: 8
+Annotation: Chromosome 8 NC_044194.1 (6963196..6968799)
+ID: 115586843
+
+19. LOC115588458
+interferon alpha/beta receptor 2-like [Sparus aurata (gilthead seabream)]
+Other Designations: interferon alpha/beta receptor 2-like
+Chromosome: 9
+Annotation: Chromosome 9 NC_044195.1 (34455555..34468151)
+ID: 115588458
+
+20. LOC115588739
+GTPase IMAP family member 5-like [Sparus aurata (gilthead seabream)]
+Other Designations: GTPase IMAP family member 5-like
+Chromosome: 9
+Annotation: Chromosome 9 NC_044195.1 (31476196..31478219, complement)
+ID: 115588739
+
+
+21. LOC115589080
+programmed cell death 1 ligand 1-like [Sparus aurata (gilthead seabream)]
+Other Designations: programmed cell death 1 ligand 1-like
+Chromosome: 10
+Annotation: Chromosome 10 NC_044196.1 (10514318..10518265, complement)
+ID: 115589080
+
+22. LOC115589573
+uncharacterized LOC115589573 [Sparus aurata (gilthead seabream)]
+Other Designations: uncharacterized protein LOC115589573
+Chromosome: 10
+Annotation: Chromosome 10 NC_044196.1 (15355937..15362090, complement)
+ID: 115589573
+
+23. LOC115589659
+complement C1q subcomponent subunit C-like [Sparus aurata (gilthead seabream)]
+Other Designations: complement C1q subcomponent subunit C-like
+Chromosome: 10
+Annotation: Chromosome 10 NC_044196.1 (14315534..14325820)
+ID: 115589659
+
+24. LOC115589808
+butyrophilin subfamily 3 member A1-like [Sparus aurata (gilthead seabream)]
+Other Designations: butyrophilin subfamily 3 member A1-like
+Chromosome: 10
+Annotation: Chromosome 10 NC_044196.1 (5687600..5690014)
+ID: 115589808
+
+25. LOC115589840
+uncharacterized LOC115589840 [Sparus aurata (gilthead seabream)]
+Other Designations: uncharacterized protein LOC115589840
+Chromosome: 10
+Annotation: Chromosome 10 NC_044196.1 (7290244..7296084)
+ID: 115589840
+
+26. LOC115590013
+Fc receptor-like protein 5 [Sparus aurata (gilthead seabream)]
+Other Designations: Fc receptor-like protein 5; low affinity immunoglobulin gamma Fc region receptor II-like
+Chromosome: 10
+Annotation: Chromosome 10 NC_044196.1 (1602075..1664003, complement)
+ID: 115590013
+
+27. LOC115590064
+uncharacterized LOC115590064 [Sparus aurata (gilthead seabream)]
+Other Designations: uncharacterized protein LOC115590064
+Chromosome: 10
+Annotation: Chromosome 10 NC_044196.1 (1029648..1053347, complement)
+ID: 115590064
+
+28. LOC115590067
+uncharacterized LOC115590067 [Sparus aurata (gilthead seabream)]
+Other Designations: uncharacterized protein LOC115590067
+Chromosome: 10
+Annotation: Chromosome 10 NC_044196.1 (1642966..1648993)
+ID: 115590067
+
+29. LOC115590261
+transmembrane protein 184C-like [Sparus aurata (gilthead seabream)]
+Other Designations: transmembrane protein 184C-like
+Chromosome: 10
+Annotation: Chromosome 10 NC_044196.1 (8467928..8475346, complement)
+ID: 115590261
+
+30. LOC115590482
+uncharacterized LOC115590482 [Sparus aurata (gilthead seabream)]
+Other Designations: uncharacterized protein LOC115590482
+Chromosome: 10
+Annotation: Chromosome 10 NC_044196.1 (12220081..12304058, complement)
+ID: 115590482
+
+31. LOC115591181
+complement factor D-like [Sparus aurata (gilthead seabream)]
+Other Designations: complement factor D-like
+Chromosome: 11
+Annotation: Chromosome 11 NC_044197.1 (11183244..11189743)
+ID: 115591181
+
+32. LOC115591548
+caspase-6-like [Sparus aurata (gilthead seabream)]
+Other Designations: caspase-6-like
+Chromosome: 1
+Annotation: Chromosome 1 NC_044187.1 (15619849..15622886)
+ID: 115591548
+
+33. st6gal1
+ST6 beta-galactosamide alpha-2,6-sialyltranferase 1 [Sparus aurata (gilthead seabream)]
+Other Designations: beta-galactoside alpha-2,6-sialyltransferase 1
+Chromosome: 13
+Annotation: Chromosome 13 NC_044199.1 (32315950..32341718)
+ID: 115593456
+
+34. gdpd4b
+glycerophosphodiester phosphodiesterase domain containing 4b [Sparus aurata (gilthead seabream)]
+Other Designations: glycerophosphodiester phosphodiesterase domain-containing protein 5
+Chromosome: 13
+Annotation: Chromosome 13 NC_044199.1 (26072204..26082428)
+ID: 115594276
+
+35. LOC115594395
+uncharacterized LOC115594395 [Sparus aurata (gilthead seabream)]
+Other Designations: uncharacterized protein LOC115594395
+Chromosome: 13
+Annotation: Chromosome 13 NC_044199.1 (33975386..33981149, complement)
+ID: 115594395
+

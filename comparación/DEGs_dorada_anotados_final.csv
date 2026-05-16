@@ -1,0 +1,43 @@
+,log2FoldChange,padj,gene_name,descripcion,regulacion,categoria
+LOC115585885,4.606983716146009,9.21462888929315e-06,lysozyme g-like,lysozyme g-like [Sparus aurata (gilthead seabream)],↑ SDY_diet,Otros
+LOC115582649,-2.042192239621312,0.0001664296175071,neuronal acetylcholine receptor subunit alpha-7-like,neuronal acetylcholine receptor subunit alpha-7-like [Sparus aurata (gilthead seabream)],↓ SDY_diet,Otros
+LOC115594276,-1.6318399945808817,0.0001664296175071,,,↓ SDY_diet,Sin anotar
+LOC115584438,5.526798430624071,0.0007993616121979,acidic mammalian chitinase-like,acidic mammalian chitinase-like [Sparus aurata (gilthead seabream)],↑ SDY_diet,Otros
+LOC115589840,6.294314501171488,0.0014466246829769,uncharacterized LOC115589840,uncharacterized LOC115589840 [Sparus aurata (gilthead seabream)],↑ SDY_diet,Otros
+LOC115578801,3.564039210928935,0.0021835526089109,elongation factor 1-alpha-like,elongation factor 1-alpha-like [Sparus aurata (gilthead seabream)],↑ SDY_diet,Otros
+LOC115590482,1.3217465084164204,0.0052898075399152,uncharacterized LOC115590482,uncharacterized LOC115590482 [Sparus aurata (gilthead seabream)],↑ SDY_diet,Otros
+fam189a1,-1.99459830157955,0.0052898075399152,fam189a1,,↓ SDY_diet,Integridad_intestinal
+LOC115573101,1.353442364859485,0.0052898075399152,tripartite motif-containing protein 16-like,tripartite motif-containing protein 16-like [Sparus aurata (gilthead seabream)],↑ SDY_diet,Otros
+LOC115575650,1.7907743221338823,0.0056655064366701,uncharacterized LOC115575650,uncharacterized LOC115575650 [Sparus aurata (gilthead seabream)],↑ SDY_diet,Otros
+LOC115594395,4.433763747155687,0.0098024210846576,uncharacterized LOC115594395,uncharacterized LOC115594395 [Sparus aurata (gilthead seabream)],↑ SDY_diet,Otros
+LOC115582423,5.247896027749536,0.0135722908277682,lysozyme g-like,lysozyme g-like [Sparus aurata (gilthead seabream)],↑ SDY_diet,Otros
+hao2,-2.554068775388296,0.0144882135932943,hao2,,↓ SDY_diet,Metabolismo
+LOC115589080,-1.2651457867179854,0.0144882135932943,programmed cell death 1 ligand 1-like,programmed cell death 1 ligand 1-like [Sparus aurata (gilthead seabream)],↓ SDY_diet,Otros
+LOC115573103,2.900574834084145,0.0153627179981483,tripartite motif-containing protein 16-like,tripartite motif-containing protein 16-like [Sparus aurata (gilthead seabream)],↑ SDY_diet,Otros
+LOC115589808,2.2813625932417745,0.0220765058860048,butyrophilin subfamily 3 member A1-like,butyrophilin subfamily 3 member A1-like [Sparus aurata (gilthead seabream)],↑ SDY_diet,Otros
+LOC115584003,2.456206364295146,0.0231810765478103,"nuclear factor 7, brain-like","nuclear factor 7, brain-like [Sparus aurata (gilthead seabream)]",↑ SDY_diet,Otros
+samd3,7.3234196475055455,0.0242783349382517,samd3,,↑ SDY_diet,Inmunidad_mucosa
+LOC115585860,2.04785758302458,0.0242783349382517,lysozyme g-like,lysozyme g-like [Sparus aurata (gilthead seabream)],↑ SDY_diet,Otros
+LOC115588458,1.4929304769246954,0.0242783349382517,interferon alpha/beta receptor 2-like,interferon alpha/beta receptor 2-like [Sparus aurata (gilthead seabream)],↑ SDY_diet,Otros
+LOC115578668,-2.414458275671079,0.0253828746284573,major histocompatibility complex class I-related gene protein-like,major histocompatibility complex class I-related gene protein-like [Sparus aurata (gilthead seabream)],↓ SDY_diet,Otros
+lgals3bp,1.288865291945233,0.0253828746284573,lgals3bp,,↑ SDY_diet,Inmunidad_mucosa
+rarb,-2.974917167787656,0.0259862996172565,rarb,,↓ SDY_diet,Factores_transcripcion
+LOC115591181,4.619983107025106,0.0269158226807824,complement factor D-like,complement factor D-like [Sparus aurata (gilthead seabream)],↑ SDY_diet,Otros
+LOC115590064,-2.177044038802685,0.0269158226807824,uncharacterized LOC115590064,uncharacterized LOC115590064 [Sparus aurata (gilthead seabream)],↓ SDY_diet,Otros
+LOC115589659,4.88319790365251,0.0269158226807824,complement C1q subcomponent subunit C-like,complement C1q subcomponent subunit C-like [Sparus aurata (gilthead seabream)],↑ SDY_diet,Otros
+LOC115593456,-1.5385448789222658,0.0284768795024853,,,↓ SDY_diet,Sin anotar
+sez6,-1.85578968078968,0.0284768795024853,sez6,,↓ SDY_diet,Integridad_intestinal
+LOC115566466,-3.33705280879334,0.0284768795024853,alcohol dehydrogenase 1,alcohol dehydrogenase 1 [Sparus aurata (gilthead seabream)],↓ SDY_diet,Otros
+LOC115589573,1.574187530010732,0.0311719143860509,uncharacterized LOC115589573,uncharacterized LOC115589573 [Sparus aurata (gilthead seabream)],↑ SDY_diet,Otros
+LOC115583933,-2.186505537609893,0.0317327533907858,probable N-acetyltransferase camello,probable N-acetyltransferase camello [Sparus aurata (gilthead seabream)],↓ SDY_diet,Otros
+LOC115582400,2.2129169159390774,0.0346022838278969,lysozyme g-like,lysozyme g-like [Sparus aurata (gilthead seabream)],↑ SDY_diet,Otros
+LOC115584009,2.3512442429351648,0.0352182045313845,zinc-binding protein A33-like,zinc-binding protein A33-like [Sparus aurata (gilthead seabream)],↑ SDY_diet,Otros
+LOC115586843,1.8548129785682108,0.0380752589607167,liver carboxylesterase 2-like,liver carboxylesterase 2-like [Sparus aurata (gilthead seabream)],↑ SDY_diet,Otros
+LOC115590013,1.4590933542001636,0.0447928692906411,Fc receptor-like protein 5,Fc receptor-like protein 5 [Sparus aurata (gilthead seabream)],↑ SDY_diet,Otros
+lama5,-2.231562389220699,0.046523256520798,lama5,,↓ SDY_diet,Integridad_intestinal
+LOC115590261,-2.342737152154267,0.046523256520798,transmembrane protein 184C-like,transmembrane protein 184C-like [Sparus aurata (gilthead seabream)],↓ SDY_diet,Otros
+LOC115578787,-1.0573630396929712,0.046523256520798,,,↓ SDY_diet,Sin anotar
+LOC115591548,-2.525762992411863,0.046523256520798,caspase-6-like,caspase-6-like [Sparus aurata (gilthead seabream)],↓ SDY_diet,Otros
+LOC115590067,1.7486671515559449,0.046523256520798,uncharacterized LOC115590067,uncharacterized LOC115590067 [Sparus aurata (gilthead seabream)],↑ SDY_diet,Otros
+LOC115578017,2.9370868469987075,0.046523256520798,bifunctional epoxide hydrolase 2-like,bifunctional epoxide hydrolase 2-like [Sparus aurata (gilthead seabream)],↑ SDY_diet,Otros
+LOC115588739,5.636576923596255,0.0499795767856688,GTPase IMAP family member 5-like,GTPase IMAP family member 5-like [Sparus aurata (gilthead seabream)],↑ SDY_diet,Otros

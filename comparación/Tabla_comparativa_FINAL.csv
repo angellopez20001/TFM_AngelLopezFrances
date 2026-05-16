@@ -1,0 +1,99 @@
+gen,dorada_FC,dorada_regulacion,dorada_FDR,lubina_FC_ANT_POS,lubina_patron,lubina_FDR,descripcion,categoria,clasificacion
+rar,-2.97,↓,0.0259862996172565,,—,,,Factores_transcripcion,Específico dorada
+lgals3bp,1.29,↑,0.0253828746284573,,—,,,Inmunidad_mucosa,Específico dorada
+samd3,7.32,↑,0.0242783349382517,,—,,,Inmunidad_mucosa,Específico dorada
+fam189a,-1.99,↓,0.0052898075399152,,—,,,Integridad_intestinal,Específico dorada
+lama5,-2.23,↓,0.046523256520798,,—,,,Integridad_intestinal,Específico dorada
+sez6,-1.86,↓,0.0284768795024853,,—,,,Integridad_intestinal,Específico dorada
+hao,-2.55,↓,0.0144882135932943,,—,,,Metabolismo,Específico dorada
+acidic mammalian chitinase-like,5.53,↑,0.0007993616121979,,—,,acidic mammalian chitinase-like [Sparus aurata (gilthead seabream)],Otros,Específico dorada
+alcohol dehydrogenase ,-3.34,↓,0.0284768795024853,,—,,alcohol dehydrogenase 1 [Sparus aurata (gilthead seabream)],Otros,Específico dorada
+bifunctional epoxide hydrolase 2-like,2.94,↑,0.046523256520798,,—,,bifunctional epoxide hydrolase 2-like [Sparus aurata (gilthead seabream)],Otros,Específico dorada
+butyrophilin subfamily 3 member a1-like,2.28,↑,0.0220765058860048,,—,,butyrophilin subfamily 3 member A1-like [Sparus aurata (gilthead seabream)],Otros,Específico dorada
+caspase-6-like,-2.53,↓,0.046523256520798,,—,,caspase-6-like [Sparus aurata (gilthead seabream)],Otros,Específico dorada
+complement c1q subcomponent subunit c-like,4.88,↑,0.0269158226807824,,—,,complement C1q subcomponent subunit C-like [Sparus aurata (gilthead seabream)],Otros,Específico dorada
+complement factor d-like,4.62,↑,0.0269158226807824,,—,,complement factor D-like [Sparus aurata (gilthead seabream)],Otros,Específico dorada
+elongation factor 1-alpha-like,3.56,↑,0.0021835526089109,,—,,elongation factor 1-alpha-like [Sparus aurata (gilthead seabream)],Otros,Específico dorada
+fc receptor-like protein 5,1.46,↑,0.0447928692906411,,—,,Fc receptor-like protein 5 [Sparus aurata (gilthead seabream)],Otros,Específico dorada
+gtpase imap family member 5-like,5.64,↑,0.0499795767856688,,—,,GTPase IMAP family member 5-like [Sparus aurata (gilthead seabream)],Otros,Específico dorada
+interferon alpha/beta receptor 2-like,1.49,↑,0.0242783349382517,,—,,interferon alpha/beta receptor 2-like [Sparus aurata (gilthead seabream)],Otros,Específico dorada
+liver carboxylesterase 2-like,1.85,↑,0.0380752589607167,,—,,liver carboxylesterase 2-like [Sparus aurata (gilthead seabream)],Otros,Específico dorada
+lysozyme g-like,4.61,↑,9.21462888929315e-06,,—,,lysozyme g-like [Sparus aurata (gilthead seabream)],Otros,Específico dorada
+major histocompatibility complex class i-related gene protein-like,-2.41,↓,0.0253828746284573,,—,,major histocompatibility complex class I-related gene protein-like [Sparus aurata (gilthead seabream)],Otros,Específico dorada
+neuronal acetylcholine receptor subunit alpha-7-like,-2.04,↓,0.0001664296175071,,—,,neuronal acetylcholine receptor subunit alpha-7-like [Sparus aurata (gilthead seabream)],Otros,Específico dorada
+"nuclear factor 7, brain-like",2.46,↑,0.0231810765478103,,—,,"nuclear factor 7, brain-like [Sparus aurata (gilthead seabream)]",Otros,Específico dorada
+probable n-acetyltransferase camello,-2.19,↓,0.0317327533907858,,—,,probable N-acetyltransferase camello [Sparus aurata (gilthead seabream)],Otros,Específico dorada
+programmed cell death 1 ligand 1-like,-1.27,↓,0.0144882135932943,,—,,programmed cell death 1 ligand 1-like [Sparus aurata (gilthead seabream)],Otros,Específico dorada
+transmembrane protein 184c-like,-2.34,↓,0.046523256520798,,—,,transmembrane protein 184C-like [Sparus aurata (gilthead seabream)],Otros,Específico dorada
+tripartite motif-containing protein 16-like,1.35,↑,0.0052898075399152,,—,,tripartite motif-containing protein 16-like [Sparus aurata (gilthead seabream)],Otros,Específico dorada
+uncharacterized loc115575650,1.79,↑,0.0056655064366701,,—,,uncharacterized LOC115575650 [Sparus aurata (gilthead seabream)],Otros,Específico dorada
+uncharacterized loc115589573,1.57,↑,0.0311719143860509,,—,,uncharacterized LOC115589573 [Sparus aurata (gilthead seabream)],Otros,Específico dorada
+uncharacterized loc115589840,6.29,↑,0.0014466246829769,,—,,uncharacterized LOC115589840 [Sparus aurata (gilthead seabream)],Otros,Específico dorada
+uncharacterized loc115590064,-2.18,↓,0.0269158226807824,,—,,uncharacterized LOC115590064 [Sparus aurata (gilthead seabream)],Otros,Específico dorada
+uncharacterized loc115590067,1.75,↑,0.046523256520798,,—,,uncharacterized LOC115590067 [Sparus aurata (gilthead seabream)],Otros,Específico dorada
+uncharacterized loc11559048,1.32,↑,0.0052898075399152,,—,,uncharacterized LOC115590482 [Sparus aurata (gilthead seabream)],Otros,Específico dorada
+uncharacterized loc115594395,4.43,↑,0.0098024210846576,,—,,uncharacterized LOC115594395 [Sparus aurata (gilthead seabream)],Otros,Específico dorada
+zinc-binding protein a33-like,2.35,↑,0.0352182045313845,,—,,zinc-binding protein A33-like [Sparus aurata (gilthead seabream)],Otros,Específico dorada
+acac,,—,,1.56,Alto_ANT-MED,8.135519713124757e-08,acetyl-CoA carboxylase beta,Absorcion_lipidos,Específico lubina
+adipor,,—,,2.94,Alto_ANT-MED,1.1783003216257575e-10,adiponectin receptor 2,Absorcion_lipidos,Específico lubina
+apo,,—,,13.7,Alto_ANT-MED,1.373701767938216e-08,apolipoprotein A-II,Absorcion_lipidos,Específico lubina
+apoc,,—,,11.05,Alto_ANT-MED,2.025575749171275e-11,apolipoprotein C-II,Absorcion_lipidos,Específico lubina
+bco,,—,,3.23,Alto_ANT-MED,8.004474332103886e-08,beta-carotene oxygenase 1,Absorcion_lipidos,Específico lubina
+cd36,,—,,10.49,Alto_ANT-MED,3.063757031582939e-09,CD36 molecule,Absorcion_lipidos,Específico lubina
+cide,,—,,2.25,Alto_ANT-MED,7.298859035522452e-08,cell death inducing DFFA like effector b,Absorcion_lipidos,Específico lubina
+dgat,,—,,5.7,Alto_ANT-MED,1.2408208562682423e-09,diacylglycerol O-acyltransferase 2,Absorcion_lipidos,Específico lubina
+fabp,,—,,4.28,Alto_ANT-MED,4.7279380380497e-11,"fatty acid binding protein 2, intestinal",Absorcion_lipidos,Específico lubina
+faxdc,,—,,3.8,Alto_ANT-MED,8.215178671421795e-10,fatty acid hydroxylase domain containing 2,Absorcion_lipidos,Específico lubina
+mogat,,—,,1.62,Alto_ANT-MED,1.486375553820997e-07,monoacylglycerol O-acyltransferase 2,Absorcion_lipidos,Específico lubina
+pcyt,,—,,3.54,Alto_ANT-MED,3.881731540069039e-10,"phosphate cytidylyltransferase 1B, choline b",Absorcion_lipidos,Específico lubina
+scar,,—,,5.56,Alto_ANT-MED,2.1965957962503472e-12,"scavenger receptor class B, member 1",Absorcion_lipidos,Específico lubina
+scp,,—,,2.41,Alto_ANT-MED,7.776773568729306e-10,sterol carrier protein 2a,Absorcion_lipidos,Específico lubina
+lyz,,—,,8.65,Alto_ANT-MED,6.670430779093529e-11,lysozyme,Enzimas_digestivas,Específico lubina
+pcsk,,—,,1.65,Alto_ANT-MED,1.8287374094836586e-07,proprotein convertase subtilisin/kexin type 2,Enzimas_digestivas,Específico lubina
+pygl,,—,,1.64,Alto_ANT-MED,8.87205959287276e-08,"phosphorylase, glycogen, liver",Enzimas_digestivas,Específico lubina
+tmprss,,—,,5.58,Alto_ANT-MED,2.7486428913018706e-08,transmembrane serine protease 15,Enzimas_digestivas,Específico lubina
+gat,,—,,5.77,Alto_ANT-MED,4.064440750877949e-12,GATA binding protein 5,Factores_transcripcion,Específico lubina
+hnf4,,—,,7.18,Alto_ANT-MED,7.186301440835626e-12,"hepatic nuclear factor 4, beta",Factores_transcripcion,Específico lubina
+abc,,—,,4.87,Alto_ANT-MED,3.995040770421454e-09,"ATP-binding cassette, sub-family A",Inmunidad_mucosa,Específico lubina
+mmd,,—,,2.74,Alto_ANT-MED,2.1060562676367133e-08,monocyte to macrophage differentiation-associated,Inmunidad_mucosa,Específico lubina
+aqp8,,—,,9.05,Alto_ANT-MED,1.1783003216257575e-10,"aquaporin 8a, tandem duplicate 1",Integridad_intestinal,Específico lubina
+cldn34,,—,,6.14,Alto_ANT-MED,3.1606543510830934e-11,claudin 34a,Integridad_intestinal,Específico lubina
+epb41l4,,—,,1.74,Alto_ANT-MED,9.370792640309051e-10,erythrocyte membrane protein band 4.1 like 4B,Integridad_intestinal,Específico lubina
+etnppl,,—,,3.94,Alto_ANT-MED,2.48516677607095e-08,ethanolamine-phosphate phospho-lyase,Integridad_intestinal,Específico lubina
+evpl,,—,,2.63,Alto_ANT-MED,1.96320761074922e-07,envoplakin b,Integridad_intestinal,Específico lubina
+mal,,—,,4.88,Alto_ANT-MED,1.0088534973206672e-10,"mal, T cell differentiation protein 2",Integridad_intestinal,Específico lubina
+ppl,,—,,3.56,Alto_ANT-MED,7.069217032751026e-10,periplakin,Integridad_intestinal,Específico lubina
+tm4sf,,—,,9.11,Alto_ANT-MED,7.275802852511289e-12,transmembrane 4 L six family member 21b,Integridad_intestinal,Específico lubina
+tm4sf4,,—,,3.59,Alto_ANT-MED,1.8287374094836586e-07,transmembrane 4 L six family member 4,Integridad_intestinal,Específico lubina
+tm4sf5,,—,,5.31,Alto_ANT-MED,1.2666259830973563e-10,transmembrane 4 L six family member 5,Integridad_intestinal,Específico lubina
+dhrs,,—,,2.75,Alto_ANT-MED,8.87205959287276e-08,dehydrogenase/reductase,Metabolismo,Específico lubina
+dpyd,,—,,2.3,Alto_ANT-MED,1.0933356643331506e-08,dihydropyrimidine dehydrogenase b,Metabolismo,Específico lubina
+agfg,,—,,2.14,Alto_ANT-MED,1.6288558601917914e-08,ArfGAP with FG repeats 1b,Otros,Específico lubina
+aipl,,—,,4.3,Alto_ANT-MED,2.604434223035589e-08,aryl hydrocarbon receptor interacting protein-like 1,Otros,Específico lubina
+cfap,,—,,4.29,Alto_ANT-MED,2.026086570652147e-10,cilia and flagella associated protein 161,Otros,Específico lubina
+dennd5,,—,,2.19,Alto_ANT-MED,1.5856234743506048e-08,DENN/MADD domain containing 5B,Otros,Específico lubina
+eepd,,—,,4.43,Alto_ANT-MED,4.2504972640461535e-10,endonuclease/exonuclease/phosphatase family domain containing 1,Otros,Específico lubina
+fam15,,—,,9.9,Alto_ANT-MED,7.699725569522131e-09,family with sequence similarity 151 member A,Otros,Específico lubina
+gja13,,—,,3.73,Alto_ANT-MED,1.9985497001276098e-07,gap junction protein alpha 13.1,Otros,Específico lubina
+kifc3,,—,,3.36,Alto_ANT-MED,3.708734268263756e-08,kinesin family member C3,Otros,Específico lubina
+malrd,,—,,2.63,Alto_ANT-MED,1.638871303450734e-08,MAM and LDL receptor class A domain containing 1,Otros,Específico lubina
+mamdc4,,—,,3.03,Alto_ANT-MED,1.6953463668556073e-08,MAM domain containing 4,Otros,Específico lubina
+mansc,,—,,4.68,Alto_ANT-MED,3.5995834667630037e-10,MANSC domain containing 1,Otros,Específico lubina
+n/,,—,,5.1,Alto_ANT-MED,2.9035146551166637e-14,apolipoprotein B-100-like,Otros,Específico lubina
+osr,,—,,4.36,Alto_ANT-MED,4.239908364574562e-09,odd-skipped related transciption factor 2,Otros,Específico lubina
+polq,,—,,2.24,Alto_ANT-MED,1.420874848501478e-07,polymerase,Otros,Específico lubina
+pp,,—,,2.24,Alto_ANT-MED,1.420874848501478e-07,inorganic pyrophosphatase 1b,Otros,Específico lubina
+scin,,—,,7.39,Alto_ANT-MED,1.7712770914715334e-10,scinderin,Otros,Específico lubina
+sec16,,—,,2.71,Alto_ANT-MED,5.0508988038034633e-08,"SEC16 homolog B, endoplasmic reticulum export factor",Otros,Específico lubina
+spire,,—,,6.46,Alto_ANT-MED,2.2486297812044503e-10,spire-type actin nucleation factor 2,Otros,Específico lubina
+stk3,,—,,1.77,Alto_ANT-MED,2.8923868117664953e-09,serine/threonine kinase 32A,Otros,Específico lubina
+tmem,,—,,3.53,Alto_ANT-MED,3.315004618922256e-11,transmembrane protein 254,Otros,Específico lubina
+wdr8,,—,,6.47,Alto_ANT-MED,1.338531638907699e-09,WD repeat domain 81,Otros,Específico lubina
+zanl,,—,,3.99,Alto_ANT-MED,7.699725569522131e-09,"zonadhesin, like",Otros,Específico lubina
+acsl5,,—,,7.59,Alto_ANT-MED,1.3070167879877256e-11,acyl-CoA synthetase long chain family member 5,Transportador_nutrientes,Específico lubina
+slc,,—,,5.64,Alto_ANT-MED,1.0760690568282176e-08,solute carrier family 2 member 1a,Transportador_nutrientes,Específico lubina
+slc15,,—,,7.14,Alto_ANT-MED,5.256849602071206e-12,solute carrier family 15 member 1a,Transportador_nutrientes,Específico lubina
+slc18,,—,,2.56,Alto_ANT-MED,1.3500231773793022e-08,solute carrier family 18 member B1,Transportador_nutrientes,Específico lubina
+slc19a3,,—,,4.45,Alto_ANT-MED,1.2861041091316242e-09,solute carrier family 19 member 3a,Transportador_nutrientes,Específico lubina
+slc26,,—,,8.4,Alto_ANT-MED,5.347543295647897e-08,solute carrier family 26 member 6,Transportador_nutrientes,Específico lubina
+slc4a4,,—,,7.16,Alto_ANT-MED,5.1427875512653955e-09,solute carrier family 4 member 4a,Transportador_nutrientes,Específico lubina
